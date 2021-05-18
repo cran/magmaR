@@ -190,9 +190,12 @@ meta <- retrieveMetadata(
 
 head(meta, n = c(6,10))
 
-## -----------------------------------------------------------------------------
+## ---- eval=TRUE, include=FALSE------------------------------------------------
+ditto_available <- requireNamespace("dittoSeq")
+
+## ---- eval = ditto_available--------------------------------------------------
 library(dittoSeq)
-# Make plot with dittoSeq
+# Explore RNAseq data with dittoSeq
 sce <- importDittoBulk(
   list(tpm = mat), # mat was obtained with retrieveMatrix()
   metadata = meta # meta was obtained with retrieveMetadata()

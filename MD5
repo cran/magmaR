@@ -1,4 +1,4 @@
-5101a3de64c1ef680165bd830cdff3eb *DESCRIPTION
+a5b6df5c8fadeb063ab1c478ed4f0e3c *DESCRIPTION
 338efed88fd06480a6defb721e3012c3 *NAMESPACE
 f573741784bf342d0f29224ef52b5f77 *R/query.R
 4319036b710774a5dd701e78c508ce95 *R/retrieve-special.R
@@ -11,13 +11,13 @@ b650d3a4669cefeb98379b7df082b184 *R/update-special.R
 b9fc47a96a315620749d9bab44eb53cc *R/update.R
 42d4ed5db9239e9089ae674ed75b0831 *R/url-adjust.R
 7875d01c4a2b8b609ab8aef66d154a82 *R/utils.R
-f02ed4ba91acd802892bc81aec7aef6c *build/vignette.rds
-6ed7295277645ee979ec427a276103d5 *inst/doc/Download.R
-52bd2d12a61aa692d2a156619a5b8965 *inst/doc/Download.Rmd
-36aba1f2e0104f5b42438a1cc5177bdb *inst/doc/Download.html
+f87c8caaf59b26b24ef398d62439a168 *build/vignette.rds
+9c32ee4e639a56ecc502911ba0771065 *inst/doc/Download.R
+117c477a7d286db20342dbbc04285c45 *inst/doc/Download.Rmd
+dab4f583599076b8281415b3b27a8c9b *inst/doc/Download.html
 4c85d2334428a47f966a9b1866a69d9d *inst/doc/Upload.R
 381947909afaf79aad27da8c0902e328 *inst/doc/Upload.Rmd
-030f36bd4f39330c0c572df9c1718e07 *inst/doc/Upload.html
+20f43e0b04febf6b34ae5557d7e344ea *inst/doc/Upload.html
 f12c5144b82db904fbec61e81be1bfbe *man/authentication-and-environments.Rd
 4f26ec0704c9b9f28d4d995b565bbe3f *man/magmaRset.Rd
 77bebf190be610655bb7e8ebbf53dd17 *man/query.Rd
@@ -61,6 +61,6 @@ e6f2d8d8280b948ef9c6995f39b25169 *tests/testthat/rna_seq_counts.tsv
 d6f30458bbb321956cc9a3edce06f8fc *tests/testthat/test-special.R
 e56f901973c6c4cb18a2310f07948f2b *tests/testthat/test-token-url.R
 3bddae44ea1882fb90bbd6ac1420af0c *tests/testthat/test-update.R
-52bd2d12a61aa692d2a156619a5b8965 *vignettes/Download.Rmd
+117c477a7d286db20342dbbc04285c45 *vignettes/Download.Rmd
 381947909afaf79aad27da8c0902e328 *vignettes/Upload.Rmd
 1e711173b4a4c44121dfbe7338c93d08 *vignettes/example_map.jpg
